@@ -1,0 +1,2 @@
+# AzuSENA_2024
+AzuSENA - Chat IA
